@@ -11,5 +11,5 @@ The game is very simple to play
 - Upon placing your marker, it ends your turn and starts the other players turn
 - When a player wins or the game ends in a draw, the game ends and you are shown a end screen displaying the results
 - the game over screen prompts you with a button to restart the game
-##Next steps
+## Next steps
 Following this learning experience I will probably create another game later on. It will probably be a chess or checkers game so I can learn even more before attempting to create an original game.

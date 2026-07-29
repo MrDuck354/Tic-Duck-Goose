@@ -1,7 +1,10 @@
 # Tic-Tac-Toe-Game
-##Why I made the game
+## Why I made the game
 I wanted to learn how to use Godot so that in the future I could create more complex games which I would enjoy playing and would feel proud to share with others. I thought that the best way to learn would be to create a simple game so I decided upon a tic tac toe game. Godot is very simple and beginner friendly so it didn't take too long to create and I finished the game in about 2 hours.
-##How to play
+
+<img width="909" height="607" alt="Screenshot 2026-07-29 175802" src="https://github.com/user-attachments/assets/2c5e650a-7d7a-46ff-9245-cc524ffa5917" />
+
+## How to play
 The game is very simple to play
 - Two player game, one player has the ducks and another has the geese as their marker
 - You click on a tile to place your marker

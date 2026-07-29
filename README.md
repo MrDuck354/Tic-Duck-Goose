@@ -1,6 +1,12 @@
 # Tic-Tac-Toe-Game
-A tic tac toe game I will make in Godot so I learn game design and programming/coding.
-The game wasn't all that hard to make as it was pretty simple to learn and pick up because of how beginner friendly Godot is. I got the assests online and added them into the game for my cross, circle and board.
-it's very simple to play, the controls are basically like every otehr tic tac toe game where one player is assigned the crosses and another is given the circles. you click on a tile to add your given marker and then it's the next players turn. when one person loses or the game ends up in a tie, a game over screen appears which tells you the results of the game and prompts you with a button to restart the game.
-<img width="972" height="646" alt="Screenshot 2026-07-26 155540" src="https://github.com/user-attachments/assets/1d3080a8-16cc-4e67-8d5e-f696fa73a114" />
-
+##Why I made the game
+I wanted to learn how to use Godot so that in the future I could create more complex games which I would enjoy playing and would feel proud to share with others. I thought that the best way to learn would be to create a simple game so I decided upon a tic tac toe game. Godot is very simple and beginner friendly so it didn't take too long to create and I finished the game in about 2 hours.
+##How to play
+The game is very simple to play
+- Two player game, one player has the ducks and another has the geese as their marker
+- You click on a tile to place your marker
+- Upon placing your marker, it ends your turn and starts the other players turn
+- When a player wins or the game ends in a draw, the game ends and you are shown a end screen displaying the results
+- the game over screen prompts you with a button to restart the game
+##Next steps
+Following this learning experience I will probably create another game later on. It will probably be a chess or checkers game so I can learn even more before attempting to create an original game.

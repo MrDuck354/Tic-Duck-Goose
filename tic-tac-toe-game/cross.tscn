@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://bt8f6vxpo25ws"]
+
+[ext_resource type="Texture2D" uid="uid://c3tnc8yup5slx" path="res://duck.png" id="1_nsgoa"]
+
+[node name="Cross" type="Sprite2D" unique_id=482765921 groups=["circles"]]
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("1_nsgoa")
